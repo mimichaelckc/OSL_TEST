@@ -1,6 +1,5 @@
-# OSL_TEST
+# OSL_TEST_Problem_2
 
-## Problem_2
 
 ## How to run
 move into the "src" folderm, compile all and then run the Main.java
