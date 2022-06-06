@@ -2,7 +2,7 @@
 
 
 ## How to run
-move into the "src" folderm, compile all and then run the Main.java
+move into the "src" folder, compile all and then run the Main.java
 
 ## Complied Design Pattern
 1. Singleton Pattern
