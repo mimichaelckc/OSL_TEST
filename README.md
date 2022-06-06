@@ -1,7 +1,7 @@
 # OSL_TEST
 
 ## How to run
-move into the "src" folder and run the Main.java
+move into the "src" folderm, compile and run the Main.java
 
 ## Complied Design Pattern
 1. Singleton Pattern
